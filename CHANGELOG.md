@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.2.1](https://github.com/terraform-aws-modules/terraform-aws-rds/compare/v7.2.0...v7.2.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#632](https://github.com/terraform-aws-modules/terraform-aws-rds/issues/632)) ([26480c9](https://github.com/terraform-aws-modules/terraform-aws-rds/commit/26480c91bc327370ba538c192e0f5226d7f47bbc))
+
 ## [7.2.0](https://github.com/terraform-aws-modules/terraform-aws-rds/compare/v7.1.0...v7.2.0) (2026-03-19)
 
 ### Features
